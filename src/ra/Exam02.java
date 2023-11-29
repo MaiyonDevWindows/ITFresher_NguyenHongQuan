@@ -1,3 +1,5 @@
+package ra;
+
 import java.util.Scanner;
 
 public class Exam02 {
